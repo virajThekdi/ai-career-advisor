@@ -1,0 +1,196 @@
+{
+  "Software Engineering": {
+    "Frontend Engineer": ["HTML", "CSS", "JavaScript", "React", "Accessibility", "Testing"],
+    "Backend Engineer": ["Python", "Java", "Node.js", "APIs", "Databases", "Unit Testing"],
+    "Full Stack Engineer": ["HTML", "CSS", "JavaScript", "Node.js", "Python", "Databases"],
+    "Software Engineer (General)": ["Algorithms", "Data Structures", "OOP", "Git", "Testing"],
+    "Senior Software Engineer": ["System Design", "Architecture", "Mentoring", "Performance"],
+    "Principal Engineer": ["Distributed Systems", "Leadership", "Scalability", "Architecture"],
+    "Platform Engineer": ["APIs", "Microservices", "CI/CD", "Kubernetes"],
+    "Systems Software Engineer": ["C", "C++", "Operating Systems", "Performance"],
+    "Backend Java Engineer": ["Java", "Spring", "Microservices", "JVM Tuning"],
+    "Backend Python Engineer": ["Python", "Django", "Flask", "REST"],
+    "Node.js Developer": ["Node.js", "Express", "Asynchronous Programming", "Testing"],
+    "Golang Engineer": ["Go", "Concurrency", "Microservices", "Docker"],
+    "Ruby on Rails Developer": ["Ruby", "Rails", "ActiveRecord", "Testing"],
+    "C#/.NET Developer": [".NET", "C#", "ASP.NET", "SQL Server"],
+    "API Engineer": ["REST", "GraphQL", "OpenAPI", "Authentication"],
+    "Microservices Engineer": ["Docker", "Kubernetes", "Service Mesh", "API Design"],
+    "Integration Engineer": ["ETL", "API Integration", "Message Queues", "SOAP/REST"],
+    "Middleware Engineer": ["Message Brokers", "Queues", "Integration", "JMS"],
+    "Backend Performance Engineer": ["Profiling", "Caching", "Load Testing"],
+    "Embedded Software Engineer": ["C", "C++", "RTOS", "Hardware Interfaces"],
+    "Game Developer": ["C++", "Unity", "Unreal", "Graphics", "Performance"],
+    "SDK Developer": ["API Design", "Documentation", "Language Bindings"],
+    "Desktop Application Developer": ["C#", "Electron", "Cross-platform UI", "Packaging"],
+    "Systems Integrator": ["Scripting", "APIs", "CI/CD", "Monitoring"],
+    "Compiler Engineer": ["Compiler Theory", "LLVM", "C/C++"]
+  },
+  "Mobile & Client": {
+    "iOS Developer": ["Swift", "Objective-C", "Xcode", "UIKit", "App Store"],
+    "Android Developer": ["Kotlin", "Java", "Android SDK", "Gradle"],
+    "Mobile Fullstack Developer": ["React Native", "Flutter", "APIs", "Redux"],
+    "React Native Developer": ["React Native", "JS/TS", "Native Modules"],
+    "Flutter Developer": ["Dart", "Flutter", "Widget Design"],
+    "Mobile QA Engineer": ["Mobile Testing", "Automation", "Device Farms"],
+    "Mobile Performance Engineer": ["Profiling", "Memory", "Battery Optimization"]
+  },
+  "Data & Machine Learning": {
+    "Data Scientist": ["Python", "Pandas", "Machine Learning", "Statistics", "Modeling"],
+    "Machine Learning Engineer": ["Python", "TensorFlow", "PyTorch", "Deployment"],
+    "Research Scientist (ML)": ["Deep Learning", "Papers", "Mathematics", "PyTorch"],
+    "Data Engineer": ["ETL", "Spark", "Airflow", "Data Warehousing"],
+    "Analytics Engineer": ["dbt", "SQL", "Data Modeling", "BI Tools"],
+    "ML Research Engineer": ["ML Algorithms", "Experimentation", "Papers"],
+    "Computer Vision Engineer": ["OpenCV", "CNNs", "PyTorch", "Image Processing"],
+    "NLP Engineer": ["Transformers", "PyTorch", "Tokenization", "Text Preprocessing"],
+    "Applied ML Engineer": ["Feature Engineering", "Model Serving", "Monitoring"],
+    "MLOps Engineer": ["Model CI/CD", "Kubernetes", "Seldon", "Monitoring"],
+    "Data Analyst": ["SQL", "Excel", "Visualization", "Statistics"],
+    "BI Developer": ["Power BI", "Tableau", "SQL", "Dashboards"],
+    "Big Data Engineer": ["Hadoop", "Spark", "Kafka", "NoSQL"],
+    "Statistician": ["Probability", "Experimental Design", "R", "Python"],
+    "Recommendation Systems Engineer": ["Collaborative Filtering", "Embeddings", "A/B Testing"],
+    "Time Series Engineer": ["Forecasting", "ARIMA", "Prophet", "Feature Engineering"],
+    "Quantitative Researcher": ["Statistics", "Finance", "Modeling"],
+    "Data Architect": ["Data Modeling", "Warehouse Design", "ETL"],
+    "Feature Engineer": ["Feature Stores", "Transformation Pipelines"],
+    "Deep Learning Engineer": ["Neural Networks", "GPU", "Optimization"],
+    "AI Product Manager": ["ML Concepts", "Roadmapping", "Data Strategy"],
+    "Speech Recognition Engineer": ["ASR", "Acoustic Modeling", "DSP"],
+    "Graph ML Engineer": ["Graph Neural Networks", "Network Analysis"],
+    "Data Ops Specialist": ["Data Quality", "Monitoring", "Automation"]
+  },
+  "Cloud, DevOps & SRE": {
+    "DevOps Engineer": ["CI/CD", "Jenkins", "Docker", "Kubernetes", "IaC"],
+    "Site Reliability Engineer (SRE)": ["Monitoring", "SLIs", "SLOs", "SRE Principles"],
+    "Cloud Engineer": ["AWS", "Azure", "GCP", "Networking", "Terraform"],
+    "Kubernetes Engineer": ["Kubernetes", "Helm", "Operators"],
+    "Platform Operations Engineer": ["Systems", "Databases", "Monitoring"],
+    "Infrastructure Engineer": ["Linux", "Networking", "Automation"],
+    "Release Engineer": ["CI/CD", "Pipelines", "Versioning", "Artifact Management"],
+    "Observability Engineer": ["Prometheus", "Grafana", "Logging", "Tracing"],
+    "Security Operations Engineer (SecOps)": ["SIEM", "Detection", "Incident Response"],
+    "Cloud Architect": ["Cloud Design", "Cost Optimization", "Security"],
+    "Infrastructure Automation Engineer": ["Ansible", "Terraform", "Puppet", "Chef"],
+    "Database Reliability Engineer": ["DBTuning", "Backups", "Replication"],
+    "Platform Reliability Engineer": ["SRE", "Kubernetes", "Platform APIs"],
+    "Containerization Engineer": ["Docker", "Container Security", "Runtime"],
+    "Edge/IoT Cloud Engineer": ["IoT Platforms", "MQTT", "Edge Compute"]
+  },
+  "Security & Privacy": {
+    "Security Engineer": ["Network Security", "App Security", "Penetration Testing"],
+    "Application Security Engineer": ["OWASP", "Static Analysis", "Threat Modeling"],
+    "Cloud Security Engineer": ["IAM", "Cloud Security", "Encryption"],
+    "Security Analyst": ["SIEM", "Alert Triage", "Incident Response"],
+    "Penetration Tester (Pentester)": ["Exploitation", "Recon", "Scripting"],
+    "Red Team Engineer": ["Adversary Emulation", "TTPs", "Social Engineering"],
+    "Blue Team Engineer": ["Detection", "Hunting", "Monitoring"],
+    "Identity & Access Management Engineer": ["OAuth", "SAML", "IAM"],
+    "Cryptography Engineer": ["Encryption", "Key Management", "Protocols"],
+    "Privacy Engineer": ["GDPR", "Data Minimization", "Anonymization"],
+    "Application Security Architect": ["Secure Architecture", "Design Reviews"],
+    "DevSecOps Engineer": ["Shift-left Security", "Security Automation"]
+  },
+  "Product & Design": {
+    "Product Manager (Technical)": ["Roadmapping", "Stakeholder Mgmt", "Data-driven"],
+    "Product Manager (Growth)": ["A/B Testing", "Analytics", "Acquisition"],
+    "Product Designer (UX/UI)": ["Figma", "User Research", "Prototyping"],
+    "UX Researcher": ["User Interviews", "Usability Testing", "Wireframing"],
+    "UX Writer": ["Microcopy", "Content Strategy", "Research"],
+    "Design Engineer": ["Design Systems", "CSS", "Component Libraries"],
+    "Conversion Rate Optimization (CRO) Specialist": ["A/B Testing", "Analytics"],
+    "Technical Program Manager": ["Program Management", "Cross-team Leadership"],
+    "Product Operations Manager": ["Process", "Tools", "Data"]
+  },
+  "Quality Assurance & Testing": {
+    "QA Engineer (Manual)": ["Test Cases", "Bug Reporting", "Regression Testing"],
+    "QA Automation Engineer": ["Selenium", "Playwright", "Test Frameworks"],
+    "Test Automation Architect": ["Framework Design", "CI Integration", "Scaling"],
+    "Performance Test Engineer": ["Load Testing", "JMeter", "Scalability"],
+    "Test Engineer (Embedded)": ["Hardware Testing", "Integration", "Scripting"],
+    "QA Lead": ["Test Strategy", "Mentoring", "Automation Roadmap"]
+  },
+  "Databases & Storage": {
+    "Database Administrator (DBA)": ["SQL", "Backups", "Replication", "Performance"],
+    "Data Warehouse Engineer": ["Redshift", "BigQuery", "Snowflake", "ETL"],
+    "NoSQL Engineer": ["MongoDB", "Cassandra", "Data Modeling"],
+    "Storage Engineer": ["SAN/NAS", "Object Storage", "Capacity Planning"],
+    "Database Developer": ["SQL", "Stored Procedures", "Optimization"]
+  },
+  "Networking & Telecom": {
+    "Network Engineer": ["Routing", "Switching", "BGP", "Firewalls"],
+    "Network Architect": ["WAN/LAN Design", "MPLS", "SD-WAN"],
+    "Telecom Engineer": ["SIP", "VoIP", "Telecom Protocols"],
+    "Wireless Engineer": ["Wi-Fi", "RF", "5G Basics"],
+    "Network Security Engineer": ["Firewalls", "IDS/IPS", "VPNs"]
+  },
+  "Hardware, Embedded & Robotics": {
+    "Embedded Systems Engineer": ["C", "Microcontrollers", "RTOS", "Hardware Debugging"],
+    "Firmware Engineer": ["C/C++", "Bootloaders", "Hardware Interfaces"],
+    "Hardware Design Engineer": ["PCB Design", "Schematics", "Signal Integrity"],
+    "FPGA Engineer": ["VHDL", "Verilog", "Timing Analysis"],
+    "Robotics Engineer": ["ROS", "Control Systems", "Kinematics"],
+    "IoT Developer": ["MQTT", "Embedded Linux", "Sensors"]
+  },
+  "Dev Tools & Observability": {
+    "Developer Tools Engineer": ["IDE Plugins", "CLI Tools", "APIs"],
+    "Build Engineer": ["Build Systems", "Bazel", "Make", "Gradle"],
+    "Monitoring Engineer": ["Prometheus", "Grafana", "Alerting"],
+    "Telemetry Engineer": ["Instrumentation", "Tracing", "Logs"]
+  },
+  "AI-specific & Advanced Research": {
+    "AI Engineer": ["ML", "Deep Learning", "MLOps", "Model Serving"],
+    "Deep Learning Researcher": ["Neural Networks", "Optimization", "Papers"],
+    "Computer Graphics Engineer": ["Shaders", "OpenGL/DirectX", "Rendering"],
+    "Reinforcement Learning Engineer": ["RL Algorithms", "Environments", "Gym"],
+    "Generative AI Engineer": ["Diffusion Models", "Transformers", "Fine-tuning"]
+  },
+  "Business & IT Ops": {
+    "Technical Support Engineer": ["Troubleshooting", "Ticketing Systems", "Customer Support"],
+    "IT Support Specialist": ["Helpdesk", "Windows/Linux Admin"],
+    "Systems Administrator": ["Linux", "Monitoring", "Scripting"],
+    "IT Manager": ["Vendor Management", "IT Strategy"],
+    "SAP Consultant": ["SAP Modules", "Business Processes"],
+    "ERP Specialist": ["ERP Systems", "Customizations"]
+  },
+  "Specialized Engineering & Emerging": {
+    "Blockchain Developer": ["Solidity", "Smart Contracts", "EVM", "Cryptography"],
+    "Smart Contract Auditor": ["Security Auditing", "Formal Verification"],
+    "Web3 Protocol Engineer": ["P2P Networks", "Consensus", "Layer 2"],
+    "AR/VR Engineer": ["Unity", "Unreal", "3D Math", "XR Hardware"],
+    "Computer Vision Researcher": ["Deep Learning", "Annotation Pipelines"],
+    "Quantum Software Engineer": ["Quantum Algorithms", "Qiskit", "Theory"],
+    "Edge Computing Engineer": ["Edge Platforms", "Latency Optimization"],
+    "Digital Signal Processing Engineer": ["DSP", "Filters", "Fourier Analysis"],
+    "Robotic Process Automation (RPA) Developer": ["UiPath", "Automation", "Scripting"]
+  },
+  "Customer-facing Tech & Sales Engineering": {
+    "Solutions Engineer": ["Product Demos", "APIs", "Technical Sales"],
+    "Sales Engineer": ["Customer Presentations", "Solution Design", "Technical Knowledge"],
+    "Customer Success Engineer": ["Onboarding", "Support", "Technical Troubleshooting"],
+    "Pre-Sales Consultant": ["RFPs", "Architecture", "Proof-of-Concepts"]
+  },
+  "Testing & QA Specialized": {
+    "Security QA Engineer": ["Security Testing", "Fuzzing", "SAST/DAST"],
+    "Localization QA Engineer": ["Internationalization", "Localization Testing"],
+    "Accessibility QA Engineer": ["WCAG", "Assistive Tech", "Testing Tools"]
+  },
+  "Management & Leadership (Technical)": {
+    "Engineering Manager": ["Team Leadership", "Hiring", "Project Delivery"],
+    "CTO (Startup)": ["Tech Strategy", "Roadmap", "Fundraising Support"],
+    "VP Engineering": ["Org Scaling", "Roadmap", "Cross-functional Leadership"],
+    "Technical Lead": ["Code Reviews", "Architecture", "Mentorship"]
+  },
+  "Analytics & BI Specialized": {
+    "Customer Analytics Analyst": ["SQL", "Cohort Analysis", "A/B Testing"],
+    "Marketing Analyst": ["Attribution", "Analytics Tools", "SQL"],
+    "Sales Operations Analyst": ["CRM", "Data Pipelines", "Reporting"]
+  },
+  "Interdisciplinary & Support Roles": {
+    "DevRel (Developer Relations)": ["Community", "SDKs", "Content", "Public Speaking"],
+    "Technical Writer": ["Docs", "APIs", "Markdown", "Audience Research"],
+    "Localization Engineer": ["Internationalization", "Scripting", "Linguistic Tools"],
+    "Compliance Engineer": ["Regulatory", "Audit", "Security Controls"]
+  }
+}
